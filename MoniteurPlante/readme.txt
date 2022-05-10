@@ -1,2 +1,6 @@
+Projet réalisé par Julie MOREAU et Madeline RONTARD
+
+L'explication de notre projet ce trouve en pdf.
+
 Pour compiler, vous devez avoir installé les librairies Adafruit_Sensor-master, 
-DFRobot_ADS1115-1.0.0 et DHT_sensor_library-1.4.3 présentes sur notre github.
+DFRobot_ADS1115-1.0.0 et DHT_sensor_library-1.4.3 présentes sur notre github en fichier zip
